@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Haffman</string>
+    <string name="home_text">Haffman algo</string>
+    <string name="input_text_help">Enter some text</string>
+    <string name="button_file_text">File</string>
+    <string name="button_hash_text">Hash</string>
+    <string name="button_save_text">Save</string>
+    <string name="button_load_last_result">Load last result</string>
+    <string name="button_read_file">Read file</string>
+    <string name="no_user_input">You should write some text</string>
+</resources>
